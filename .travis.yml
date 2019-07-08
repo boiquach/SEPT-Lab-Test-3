@@ -3,4 +3,4 @@ node_js: "10.14"
 
 install: npm install
 
-script: node server.js
+script: npm run build
